@@ -11,11 +11,10 @@
 
 ### 👨‍💻 Hakkımda
 
-* 🔭 Şu anda **antalyamap.com** üzerinde çalışıyorum.
 * 🌱 Kendimi **Next.js, TypeScript ve Performans Optimizasyonu** konularında geliştiriyorum.
 * 👯 Açık kaynak projelere katkıda bulunmaktan ve temiz kod (Clean Code) pratiklerini uygulamaktan keyif alıyorum.
 * 💬 Bana **Frontend mimarisi, React ve web teknolojileri** hakkında her şeyi sorabilirsin.
-* ⚡ İlginç bilgi: Kod yazmadığım zamanlarda muhtemelen Minecraft Sunucum ile ilgileniyorumdur.
+* ⚡ İlginç bilgi: Kod yazmadığım zamanlarda muhtemelen oyun oynuyorumdur.
 
 ### 🛠️ Teknolojiler & Araçlar
 
