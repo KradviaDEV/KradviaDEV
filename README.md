@@ -65,9 +65,9 @@ Currently exploring deeper into **Next.js, TypeScript, performance optimization,
 
 <div align="center">
 
-### 🗂️ Görev Panosu
+  ### 🗂️ Coming Soon
 
-**A modern task management experience built for simplicity and productivity.**
+**-**
 
 <br>
 
