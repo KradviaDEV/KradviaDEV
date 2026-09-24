@@ -1,42 +1,135 @@
-<h1 align="center">Hi there, I'm KradviaDEV 👋</h1>
-<h3 align="center">Full-Stack Web Developer crafting modern digital experiences.</h3>
-
 <div align="center">
-  <a href="mailto:kradvia@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://linkedin.com/in/kradviadev"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://kradviadev.com"><img src="https://img.shields.io/badge/Portfolio-252F3F?style=flat-square&logo=safari&logoColor=white" alt="Portfolio" /></a>
+
+<!-- 1. Animasyonlu Header Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111111,100:0055ff&height=180&section=header&text=👋%20Hey,%20I'm%20KradviaDEV&fontSize=38&animation=twinkling&fontColor=ffffff" width="100%" alt="Header" />
+
+<!-- 2. Dinamik Daktilo (Typewriter) Efekti -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Full-Stack+Web+Developer;React+%C2%B7+Next.js+%C2%B7+TypeScript;I+build+modern%2C+fast+%26+thoughtful+apps." alt="Typing SVG" />
+</a>
+
+<br><br>
+
+<a href="https://kradviadev.com">
+  <img src="https://img.shields.io/badge/🌐_Portfolio-21262d?style=for-the-badge&logoColor=white" alt="Portfolio" />
+</a>
+<a href="https://linkedin.com/in/kradviadev">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="mailto:kradvia@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+
 </div>
 
 <br>
 
-### 👨‍💻 Hakkımda
+<img src="https://user-images.githubusercontent.com/73097560/115834477-db03a080-a473-11eb-812d-d0053b70311e.gif" width="100%" />
 
-* 🌱 Kendimi **Next.js, TypeScript ve Performans Optimizasyonu** konularında geliştiriyorum.
-* 👯 Açık kaynak projelere katkıda bulunmaktan ve temiz kod (Clean Code) pratiklerini uygulamaktan keyif alıyorum.
-* 💬 Bana **Frontend mimarisi, React ve web teknolojileri** hakkında her şeyi sorabilirsin.
-* ⚡ İlginç bilgi: Kod yazmadığım zamanlarda muhtemelen oyun oynuyorumdur.
+## ✦ About Me
 
-### 🛠️ Teknolojiler & Araçlar
+> 🚀 **Building modern web applications**  
+> ⚡ **Focused on performance & clean architecture**  
+> 🎨 **Interested in UI/UX & design systems**  
+> 🌱 **Always learning something new**  
+> 🤝 **Open to interesting collaborations**  
 
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind" />
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-</p>
+I'm a **Full-Stack Web Developer** focused on creating clean, performant, and user-friendly web applications.
 
-### 📈 İstatistikler
+Currently exploring deeper into **Next.js, TypeScript, performance optimization, and scalable frontend architecture.**
 
-<p>
-  <img src="https://komarev.com/ghpvc/?username=KradviaDEV&style=for-the-badge&color=20232A&label=PROFIL+GORUNTULENMESI" alt="Profil Görüntülenme" />
-  <a href="https://github.com/KradviaDEV?tab=repositories"><img src="https://img.shields.io/badge/PUBLIC_REPOS-INCELE-38B2AC?style=for-the-badge&logo=github" alt="Repos" /></a>
-  <a href="https://github.com/KradviaDEV?tab=followers"><img src="https://img.shields.io/github/followers/KradviaDEV?style=for-the-badge&color=007ACC&label=TAKIPCI&logo=github" alt="Followers" /></a>
-  <a href="https://github.com/KradviaDEV"><img src="https://img.shields.io/github/stars/KradviaDEV?style=for-the-badge&color=F7DF1E&label=YILDIZLAR&logo=github" alt="Stars" /></a>
-</p>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-db03a080-a473-11eb-812d-d0053b70311e.gif" width="100%" />
+
+## ⚡ Tech Stack
+
+<div align="center">
+
+### Frontend
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" alt="Frontend Tech" />
+
+<br>
+
+### Backend & Database
+<img src="https://skillicons.dev/icons?i=nodejs,postgres" alt="Backend Tech" />
+
+<br>
+
+### Tools & Workflow
+<img src="https://skillicons.dev/icons?i=git,docker,vscode,github" alt="Tools" />
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-db03a080-a473-11eb-812d-d0053b70311e.gif" width="100%" />
+
+## 🚀 Featured Project
+
+<div align="center">
+
+### 🗂️ Görev Panosu
+
+**A modern task management experience built for simplicity and productivity.**
+
+<br>
+
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+<img src="https://img.shields.io/badge/Modern%20UI-21262d?style=flat-square" alt="Modern UI" />
+
+<br><br>
+
+<a href="https://github.com/KradviaDEV">
+  <img src="https://img.shields.io/badge/VIEW_PROJECT-111111?style=for-the-badge&logo=github&logoColor=white" alt="View Project" />
+</a>
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-db03a080-a473-11eb-812d-d0053b70311e.gif" width="100%" />
+
+## 📈 GitHub Stats
+
+<div align="center">
+
+<!-- GitHub Streak Stats (Seri Kartı) -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=KradviaDEV&theme=dark&hide_border=true&background=0D1117" alt="GitHub Streak" />
+
+<br><br>
+
+<img src="https://github-stats-extended.vercel.app/api?username=KradviaDEV&show_icons=true&hide_border=true&theme=github_dark" alt="GitHub Stats" />
+
+<br><br>
+
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=KradviaDEV&layout=compact&hide_border=true&theme=github_dark" alt="Top Languages" />
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-db03a080-a473-11eb-812d-d0053b70311e.gif" width="100%" />
+
+## 🧩 What I'm Working On
+
+- 🚀 Building better web experiences
+- 🏗️ Improving React architecture
+- 🧠 Learning advanced Next.js patterns
+- ⚡ Exploring performance optimization
+- 🤝 Contributing to open source
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-db03a080-a473-11eb-812d-d0053b70311e.gif" width="100%" />
+
+## 🌐 Connect
+
+<div align="center">
+
+<a href="https://kradviadev.com">
+  <img src="https://img.shields.io/badge/Portfolio-21262d?style=for-the-badge&logo=safari&logoColor=white" alt="Portfolio" />
+</a>
+<a href="https://linkedin.com/in/kradviadev">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="mailto:kradvia@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+
+<br><br>
+
+**`Building • Learning • Shipping`**
+
+</div>
